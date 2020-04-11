@@ -9,20 +9,15 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <style type="text/css">
-    .anindita{
+    .an{
       padding-left: 30%;
     }
-    .ani{
-      padding-left: 35%;
-    }
-    .trayee{
-      padding-left: 50%;
-    }</style>
+</style>
   </head>
   <body>
 
     <nav class="navbar navbar-inverse ">
-        <div class="container anindita"><p class="navbar-brand">© 2020 Copyright:</p>
+        <div class="container an"><p class="navbar-brand">© 2020 Copyright:</p>
           <a class="navbar-brand" href="home.php">Sarish's-Gallery.com</a>
         </div>
     </nav>
